@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Buildings {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
 		while(num > 0) {
