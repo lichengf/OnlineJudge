@@ -1,5 +1,7 @@
 package com.lichengfeng.chapterone.sectiontwo;
-
+/**
+ * u do not have to stop in acm.
+ */
 import java.util.Scanner;
 
 public class DecimalSystem {
